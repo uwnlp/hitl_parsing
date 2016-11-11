@@ -1,0 +1,5 @@
+lib/
+bin/
+.idea/
+temp_output/
+*.out
