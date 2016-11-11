@@ -32,9 +32,9 @@ As specified in corpora.properties:
 
 This human-in-the-loop framework is described in the following paper:
 
-  Human-in-the-Loop Parsing
-  Luheng He, Julian Michael, Mike Lewis and Luke Zettlemoyer
-  In proceedings of EMNLP 2016
+  <i>Human-in-the-Loop Parsing</i> <br>
+  Luheng He, Julian Michael, Mike Lewis and Luke Zettlemoyer <br>
+  In proceedings of EMNLP 2016 <br>
 
 ## Contact
 
