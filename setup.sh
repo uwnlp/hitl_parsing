@@ -15,7 +15,7 @@ then
     echo "Downloading pre-trained CCG parsing model from $model_url"
     supertagmodel=model_tritrain_finetune.tgz
     curl -o $supertagmodel $model_url/$supertagmodel
-    tar -xzf $supertagmodel
+    tar -xzvf $supertagmodel
     rm $supertagmodel
 else
     echo "Using cached data from $model_dir"
