@@ -17,9 +17,8 @@
 ## Datasets
 
 As specified in corpora.properties:
-* Penn Treebank (used to get the dev split of CCGBank): needs to be located at `hitl_parsing/testfiles/wsj/COMBINED/WSJ/`
-* CCGBank: needs to be located at `hitl_parsing/testfiles/ccgbank/data/`
-
+* [PennTreebank](https://catalog.ldc.upenn.edu/LDC95T7): (used to get the dev split of CCGBank) needs to be located at `hitl_parsing/testfiles/wsj/COMBINED/WSJ/`
+* [CCGBank](https://catalog.ldc.upenn.edu/LDC2005T13): needs to be located at `hitl_parsing/testfiles/ccgbank/data/`
 
 ## Other functionalities (coming soon)
 
