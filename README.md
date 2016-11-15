@@ -6,9 +6,9 @@
 
 * `cd hitl_parsing`
 
-* `ant`
-
 * `./setup.sh`
+
+* `ant`
 
 * `./run.sh` (for replicating results on ccg dev)
 
